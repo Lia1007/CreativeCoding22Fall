@@ -10,6 +10,7 @@
 ![image](https://github.com/Lia1007/CreativeCoding22Fall/blob/main/ImageSources/Green%20Square%201.png)
 
 如想在**Processing内部**运行这个作品或是查看代码，请下载或查看**Green_Square.pde**。  
+若想查看运行视频，请下载**GreenSquare.mp4**。
 
 ## 第二个作品：week2 - Mondrian
 **作品目标**：将**蒙德里安构图风格**与**洛可可配色风格**结合。  
