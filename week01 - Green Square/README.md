@@ -6,4 +6,4 @@
 ![image](https://github.com/Lia1007/CreativeCoding22Fall/blob/main/ImageSources/Green%20Square%201.png)
 
 如想在**Processing内部**运行这个作品或是查看代码，请下载或查看**sketch_220930a.pde**。  
-若想查看运行视频，请下载**
+若想查看运行视频，请下载**GreenSquare.mp4**。
