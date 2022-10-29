@@ -36,4 +36,4 @@
 画面展示：  
 
 如想在**Processing内部**运行这个作品或是查看代码，请下载或查看**sketch_3d__.pde**以及**UI.pde**。  
-若想查看运行视频，请下载**circlecat.mp4**。
+若想查看交互模式，请下载**circlecat.mp4**。
