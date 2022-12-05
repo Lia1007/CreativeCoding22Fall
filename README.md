@@ -63,3 +63,7 @@
 画面展示：   
 ![image](https://github.com/Lia1007/CreativeCoding22Fall/blob/main/ImageSources/Asteroids1.png)   
 如想在**Processing内部**运行这个作品或是查看代码，请下载或查看所有pde格式的文件。  
+
+## 大作业：Maxident musicplayer  
+具体说明详见Maxident音乐播放器计划书.docx以及MAXIDENT宣传海报.pdf,或是展示视频.mp4。  
+画面展示：  
